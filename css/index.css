@@ -1,0 +1,22 @@
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+.bg-darks {
+    background-color: #00AFEF;
+}
+
+.imgco{
+	width:45px;
+	height:40px;
+}
+
+a{
+  font-size: large;
+}
